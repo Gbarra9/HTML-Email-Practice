@@ -1,0 +1,26 @@
+<h3 style="font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color:#333333; padding: 36px 0 5px 0; font-weight:300; font-size:24px; text-transform:
+uppercase;" align="center">Hero
+  lets you...</h3>
+
+
+
+<p style="font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color:#7f8777; font-weight:400; line-height: 1.8;font-size:14px; padding: 0 0 30px;">
+
+
+<a href="#" style="font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color:#2792ec; text-decoration: none; font-weight:600;font-size:14px;">Learn More</a>
+
+
+<td style="font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color:#333333; padding: 0 0 0 15px; font-weight:600; text-transform:uppercase; font-size:14px;">Notify</td>
+
+<table class="join together" width="100%" align="left" cellspacing="0" cellpadding="0" border="0" style="padding:25px 0 75px; background:white;">
+
+<!-- start of icon table -->
+<table class="icon-table" width="100%" align="left" cellspacing="0" cellpadding="0" border="0" style="">
+  <td>
+    <img src="/img/retina_icon.png" alt="phone icon">
+  </td>
+  <td style="font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif; color:#333333; padding: 0 0 0 15px; font-weight:600; text-transform:uppercase; font-size:14px;">
+    Responsive layout
+  </td>
+</table>
+<!-- end of icon table -->
